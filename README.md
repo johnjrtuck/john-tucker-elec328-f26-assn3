@@ -2,7 +2,7 @@
 
 ELEC 328 Assignment 3: Particle Worlds (Sparks prefab)
 
-Chosen configuration: Instanced, [N] particles, Simulation Speed 0.2, MSAA 8x
+Chosen configuration: Instanced, 1000 particles, Simulation Speed 0.2, MSAA 8x
 
 ## Deliverables
 - Deliverables/Assn3_Results_NEW.csv: results table (T1-T12, baseline T1)
